@@ -21,7 +21,9 @@ Hola soy Santi, un Front-end Developer en constante aprendizaje. Tengo un gran e
 
 ## Contacto
 ¿Te apasiona el mundo del desarrollo web tanto como a mí? Me encantaría contactar contigo para conversar sobre nuestros proyectos, ideas o posibles propuestas laborales.
+
 Si estás buscando una persona para colaborar/trabajar en proyectos web o simplemente deseas charlar y compartir conocimientos, no dudes en contactarme. Podes encontrarme en LinkedIn a través de este enlace: https://www.linkedin.com/in/santiago-herrera-501293239/ o simplemente escríbeme un correo electrónico a santiagoeherrera@gmail.com
+
 ¡Espero escuchar de ti pronto!
 
 ## Gracias por visitar mi perfil!!!
